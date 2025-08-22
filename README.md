@@ -25,7 +25,7 @@ Buyers of both genders tend to have higher average income than non-buyers.
 Male buyers have the highest average income overall.
 
 <p align="center">
-  <img src="assets/income-gender.PNG" alt="Average Income by Gender and Purchase" width="650">
+  <img src="assets/income-gender.png" alt="Average Income by Gender and Purchase" width="650">
 </p>
 
 ---
@@ -35,7 +35,7 @@ Customers with short commutes (0–1 miles) are the most likely to purchase bike
 Purchase likelihood drops sharply beyond 5 miles.
 
 <p align="center">
-  <img src="assets/commute.PNG" alt="Commute Distance vs Bike Purchase" width="650">
+  <img src="assets/commute.png" alt="Commute Distance vs Bike Purchase" width="650">
 </p>
 
 ---
@@ -45,5 +45,5 @@ Middle-aged customers are the main group of bike buyers.
 Adolescents and older customers are significantly less likely to purchase.
 
 <p align="center">
-  <img src="assets/age-brackets.PNG" alt="Age Brackets vs Bike Purchase" width="650">
+  <img src="assets/age-brackets.png" alt="Age Brackets vs Bike Purchase" width="650">
 </p>
